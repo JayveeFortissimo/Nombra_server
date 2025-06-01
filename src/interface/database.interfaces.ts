@@ -5,6 +5,7 @@ export enum Instruments{
 }
 
 export interface databaseConfiguration{
+    id:number
    name: string,
    age: number,
    instruments: Instruments,

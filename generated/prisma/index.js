@@ -146,7 +146,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\Jayvee\\Desktop\\PERSONAL PROJECT 1\\server\\generated\\prisma",
+      "value": "D:\\PERSONAL2\\Nombra_server\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -160,7 +160,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\Jayvee\\Desktop\\PERSONAL PROJECT 1\\server\\prisma\\schema.prisma",
+    "sourceFilePath": "D:\\PERSONAL2\\Nombra_server\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
